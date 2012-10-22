@@ -1,2 +1,0 @@
-serviceClass: com.profession.client.GreetingService
-path: 0F65704C0076C470FB3D6838A5F1F34D.gwt.rpc
